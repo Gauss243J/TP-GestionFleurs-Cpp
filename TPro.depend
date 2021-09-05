@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1630156298 source:c:\users\hp\documents\c et c++\c\tp\tpro\admin.c
+
+1630156373 source:c:\users\hp\documents\c et c++\c\tp\tpro\fleur.c
+
+1630861443 source:c:\users\hp\documents\c et c++\c\tp\tpro\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<string.h>
+	"fleur.cpp"
+	"client.cpp"
+
+1630618495 source:c:\users\hp\documents\c et c++\c\tp\tpro\admin.cpp
+	"personne.cpp"
+
+1630862219 source:c:\users\hp\documents\c et c++\c\tp\tpro\client.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+
+1630781472 source:c:\users\hp\documents\c et c++\c\tp\tpro\fleur.cpp
+	<iostream>
+	<vector>
+	<string.h>
+
+1630781472 c:\users\hp\documents\c et c++\c\tp\tpro\fleur.cpp
+	<iostream>
+	<vector>
+	<string.h>
+
+1630862219 c:\users\hp\documents\c et c++\c\tp\tpro\client.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<cstdlib>
+
+1630820237 source:c:\users\hp\documents\c et c++\c\tp\tpro\personne.cpp
+	<iostream>
+	<vector>
+	<string.h>
+
+1630820237 c:\users\hp\documents\c et c++\c\tp\tpro\personne.cpp
+	<iostream>
+	<vector>
+	<string.h>
+
