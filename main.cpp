@@ -216,7 +216,7 @@ accuiel:
                 cout <<"VOULEZ-VOUS AJOUTER COMBIEN DE TYPES DE FLEURS?"<< endl;
                 cin>>nbr;
                 fleurss=admin.ajouterFleur(nbr);
-                for(int l41=0;l41<fleurss.size();l41++){
+                for(int l41=0;l41<nbr;l41++){
                 fleurs.push_back(fleurss[l41]);
                 }
             }
